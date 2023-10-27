@@ -1,0 +1,1 @@
+## Contains templates for writing documentation, guides, and manuals.
